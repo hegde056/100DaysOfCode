@@ -8,6 +8,8 @@ On this journey I focus on learning Comupter Vision and C++
 * Set up the Repo. 
 #### Day 1 :
 * Unique_ptr example
+#### Day 2 :
+* Shared_ptr example
 
 
 ### Resources : 
