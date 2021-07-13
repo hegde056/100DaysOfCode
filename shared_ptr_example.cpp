@@ -1,4 +1,4 @@
-/*unique_ptr explainer with examples*/
+/*shared_ptr explainer with examples*/
 
 #include <iostream>
 #include <memory>

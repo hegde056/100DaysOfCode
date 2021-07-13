@@ -10,6 +10,9 @@ On this journey I focus on learning Comupter Vision and C++
 * Unique_ptr example
 #### Day 2 :
 * Shared_ptr example
+#### Day 3 :
+* Shared_ptr cyclic reference problem
+* weak_ptr ecample
 
 
 ### Resources : 
