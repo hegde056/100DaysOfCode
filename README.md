@@ -13,6 +13,10 @@ On this journey I focus on learning Comupter Vision and C++
 #### Day 3 :
 * Shared_ptr cyclic reference problem
 * weak_ptr ecample
+#### Day 4 :
+* Started learning OpenCV. Basic example of Load and display image 
+#### Day 5 :
+* Change image brighness and contrast 
 
 
 ### Resources : 
