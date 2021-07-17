@@ -19,6 +19,8 @@ On this journey I focus on learning Comupter Vision and C++
 * Change image brighness and contrast 
 #### Day 6 :
 * Change image brighness and contrast using a trackbar
+#### Day 7 :
+* Smart pointer examples for an explainer article. @todo : link article after completion. 
 
 ### Resources : 
 * **Computer Vision : Algorithms and Applications** by *Richard Szeliski*
