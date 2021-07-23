@@ -23,6 +23,10 @@ On this journey I focus on learning Comupter Vision and C++
 * Smart pointer examples for an explainer article. @todo : link article after completion. 
 #### Day 8 :
 * Solved Leetcode Cpp problems. [link](https://github.com/hegde056/LeetCode/commit/25b82bd50368519303917d35e4d88c6bf9b7129f)
+#### Day 9 :
+* Tried Leetcode Cpp problems.Wrote Shared ptr and Dynamic Mem allocation explaination for article.
+#### Day 10 :
+* PPP2 chapter 17 exercises 3 and 4.
 
 
 ### Resources : 
