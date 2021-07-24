@@ -1,6 +1,4 @@
-/* PPP2 Chapte 17 Ex.4 */ 
-/* replaced strdup with strcopycopy */
-
+/* PPP2 Chapte 17 Ex.4 */
 #include <iostream>
 
 char* strcopycopy(const char* s)
@@ -10,19 +8,16 @@ char* strcopycopy(const char* s)
 	//find length of s
 	while (s[n] != '\0')
 	{
-		n++;
+		++n;
 	}
 
-	char* ret = new char[100]; 
+	char* ret = new char[n+1]; 
 	for (int i = 0 ; i <=n;++i)
 	{
 		ret[i] = s[i];
 	}
-
-	//terminating 0
-	ret[n + 1] = '\0';
-	
-    return ret;
+    
+	return ret;
 }
 
 int main()
@@ -35,6 +30,6 @@ int main()
 
 	std::cout << "str2  :: " << str2 << std::endl;
 
-    delete[] str2;
+	delete[] str2;
 	return 0;
 }
