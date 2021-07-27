@@ -27,7 +27,10 @@ On this journey I focus on learning Comupter Vision and C++
 * Tried Leetcode Cpp problems.Wrote Shared ptr and Dynamic Mem allocation explaination for article.
 #### Day 10 :
 * PPP2 chapter 17 exercises 3 and 4.
-
+#### Day 11 :
+* Extend brightness-contrast trackbar.
+#### Day 12 :
+* Two Leetcode problems 
 
 ### Resources : 
 * **Computer Vision : Algorithms and Applications** by *Richard Szeliski*
